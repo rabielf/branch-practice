@@ -1,1 +1,3 @@
-print('Hello stem world')
+i = 3
+if i % 3 == 0:
+    print('fizz')
